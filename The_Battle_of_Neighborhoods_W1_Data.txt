@@ -1,0 +1,21 @@
+Sally Burger Restaurant in New York City
+________________________________________
+
+Data
+-----
+To help Sally in her search we will need to access following data:
+
+- The Localities of New York City from Wikipedia: 
+https://geo.nyu.edu/catalog/nyu_2451_34572
+
+- The coordinates (latitude, longitude) ot these Localities of 
+New York City from Open Street Map APIs
+
+- From Foursquare we will need following venues data:
+  - the burger joint venues of the Localities
+  - the offices venues of the Localities
+  - the high schools venues of the Localities
+  - the universities venues of the Localities
+
+We will then leverage the data in order to determine which locality
+is the most appropriate in order to locate the burger joint. 
