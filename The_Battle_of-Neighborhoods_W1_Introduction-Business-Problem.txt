@@ -1,0 +1,18 @@
+Sally Cafe Shope in "Bogotá, Colombia"
+______________________________________
+
+Introduction
+-------------
+Sally wants to open her Cafe in some Locality (District)
+in Bogotá, Colombia.
+And she is asking our help in finding the best Locality.
+
+
+Business Problem 
+----------------
+In order to open Sally's Cafe, we will need 
+to use some information about the Localities in Bogotá, Colombia.
+
+We must be sure that the place where the cafe is opened
+will have enough customers and also that there aren't a large ammount
+of cafes in the place.
